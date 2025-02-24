@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/avery-github-app/static/css/main.f855e6bc.css",
+    "main.js": "/avery-github-app/static/js/main.a774933f.js",
+    "static/js/453.bc3cb12c.chunk.js": "/avery-github-app/static/js/453.bc3cb12c.chunk.js",
+    "static/media/logo.svg": "/avery-github-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/avery-github-app/index.html",
+    "main.f855e6bc.css.map": "/avery-github-app/static/css/main.f855e6bc.css.map",
+    "main.a774933f.js.map": "/avery-github-app/static/js/main.a774933f.js.map",
+    "453.bc3cb12c.chunk.js.map": "/avery-github-app/static/js/453.bc3cb12c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a774933f.js"
+  ]
+}
